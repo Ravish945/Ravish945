@@ -1,13 +1,14 @@
-# Hi, I'm Ravish 👋
+# Hi, I'm Ravish 👋                                                         
 
+    
 I'm building **Foresight — Demand & Inventory Intelligence**, a project exploring retail demand forecasting and inventory insights.
+                                                                                <img src="git.gif" width="130" alt="Foresight Buddy" />
 
 ## Featured project
 
 ### [Foresight — Demand & Inventory Intelligence](https://github.com/Ravish945/foresight-demand-inventory)
 
-A Python project focused on understanding demand patterns and making inventory planning more useful.       <img src="git.gif" width="130" alt="Foresight Buddy" />
-
+A Python project focused on understanding demand patterns and making inventory planning more useful.       
 ## What I'm working on
 
 - Exploring demand forecasting and inventory analytics
