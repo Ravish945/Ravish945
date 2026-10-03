@@ -17,3 +17,4 @@ A Python project focused on understanding demand patterns and making inventory p
 ---
 
 *More projects and a custom profile robot coming soon 🤖*
+![Foresight Buddy](git.gif)
