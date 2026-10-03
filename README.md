@@ -6,7 +6,7 @@ I'm building **Foresight — Demand & Inventory Intelligence**, a project explor
 
 ### [Foresight — Demand & Inventory Intelligence](https://github.com/Ravish945/foresight-demand-inventory)
 
-A Python project focused on understanding demand patterns and making inventory planning more useful.
+A Python project focused on understanding demand patterns and making inventory planning more useful.       <img src="git.gif" width="130" alt="Foresight Buddy" />
 
 ## What I'm working on
 
@@ -17,4 +17,5 @@ A Python project focused on understanding demand patterns and making inventory p
 ---
 
 *More projects and a custom profile robot coming soon 🤖*
-![Foresight Buddy](git.gif)
+
+
