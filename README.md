@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ravish 👋
 
-<!--
-**Ravish945/Ravish945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building **Foresight — Demand & Inventory Intelligence**, a project exploring retail demand forecasting and inventory insights.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Foresight — Demand & Inventory Intelligence](https://github.com/Ravish945/foresight-demand-inventory)
+
+A Python project focused on understanding demand patterns and making inventory planning more useful.
+
+## What I'm working on
+
+- Exploring demand forecasting and inventory analytics
+- Building and documenting practical projects
+- Improving my skills through hands-on work
+
+---
+
+*More projects and a custom profile robot coming soon 🤖*
