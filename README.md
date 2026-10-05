@@ -1,22 +1,45 @@
-# Hi, I'm Ravish 👋                                                         
+<p align="center">
+  <img src="banner.svg" alt="Ravish Patel, Aspiring Data Scientist" width="100%">
+</p>
 
-    
-I'm building **Foresight — Demand & Inventory Intelligence**, a project exploring retail demand forecasting and inventory insights.
-                                                                                <img src="git.gif" width="130" alt="Foresight Buddy" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square" alt="Email"></a>
+  <a href="https://foresight-demand-inventory-gdzbkvidhzl37dztbrtd7s.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DASHBOARD-2D5BFF?style=flat-square" alt="Live dashboard"></a>
+</p>
+
+## About
+
+I turn raw data into decisions. I build end-to-end projects in Python and SQL, from cleaning and analysis to forecasting and dashboards, and I'm working toward a Data Scientist role.
+
+<img src="robot.svg" align="right" width="130" alt="Robot buddy">
 
 ## Featured project
 
-### [Foresight — Demand & Inventory Intelligence](https://github.com/Ravish945/foresight-demand-inventory)
+### [FORESIGHT: Demand & Inventory Intelligence](https://github.com/Ravish945/foresight-demand-inventory)
 
-A Python project focused on understanding demand patterns and making inventory planning more useful.       
-## What I'm working on
+A retail planning dashboard that forecasts weekly demand and flags inventory risk.
 
-- Exploring demand forecasting and inventory analytics
-- Building and documenting practical projects
-- Improving my skills through hands-on work
+| | |
+|---|---|
+| **Forecast** | 6 weeks, 29,571 units across 50 SKUs |
+| **Best model** | Seasonal-naive, 11.5% WAPE (Random Forest: 12.0%) |
+| **Validation** | 4 rolling backtest origins |
+| **Inventory flags** | 7 reorder · 2 overstock · 41 healthy |
 
----
+[Live demo](https://foresight-demand-inventory-gdzbkvidhzl37dztbrtd7s.streamlit.app/) · [10-page report](https://github.com/Ravish945/foresight-demand-inventory/blob/main/reports/FORESIGHT_Project_Report.pdf)
 
-*More projects and a custom profile robot coming soon 🤖*
+## Stack
+
+`Python` `SQL` `pandas` `NumPy` `scikit-learn` `Plotly` `Streamlit` `Git` `Linux`
+
+## Certifications
+
+Intellipaat: Python, SQL, Data Science, Linux · Tata iQ GenAI-Powered Data Analytics Job Simulation (Forage)
+
+## Now
+
+Solving SQL problems on LeetCode · Building my next data project
+
 
 
