@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ravish-patel-b74759344/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:theravish92@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square" alt="Email"></a>
   <a href="https://foresight-demand-inventory-gdzbkvidhzl37dztbrtd7s.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DASHBOARD-2D5BFF?style=flat-square" alt="Live dashboard"></a>
 </p>
 
