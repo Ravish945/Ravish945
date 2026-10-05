@@ -10,9 +10,11 @@
 
 ## About
 
+<img src="robot.svg" align="right" width="110" alt="Robot buddy">
+
 I turn raw data into decisions. I build end-to-end projects in Python and SQL, from cleaning and analysis to forecasting and dashboards, and I'm working toward a Data Scientist role.
 
-<img src="robot.svg" align="right" width="130" alt="Robot buddy">
+<br clear="right">
 
 ## Featured project
 
