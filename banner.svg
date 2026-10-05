@@ -17,5 +17,5 @@
   <polyline points="900,135 940,150 980,112 1020,126 1060,88 1100,100" fill="none" stroke="#2D5BFF" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
   <circle cx="900" cy="135" r="5" fill="#FAFAF8" stroke="#111111" stroke-width="2"/>
   <text x="720" y="274" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#8A8A85">HISTORY</text>
-  <text x="912" y="274" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#2D5BFF">FORECAST</text>
+  <text x="912" y="274" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#2D5BFF">CODING</text>
 </svg>
